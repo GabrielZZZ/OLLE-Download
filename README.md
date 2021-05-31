@@ -3,7 +3,7 @@ This is a website for users to download the installation package of OLLE Desktop
 
 ## Download the file
 Please click the link to download the installation file for the package:
-[Windows Version](https://github.com/GabrielZZZ/OLLE-Download/raw/main/setup.exe)
+[Windows Version](https://github.com/GabrielZZZ/OLLE-Download/raw/main/OLLE_Install.zip)
 
 ## Functions List
 ### **OLLE Desktop App Interface Design V2**
